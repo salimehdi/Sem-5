@@ -1,0 +1,39 @@
+Topic: Timesheet Application (Employee Management System)
+
+Problem Statement:
+
+- To built a timesheet application for a company which helps managers, manage and track the work of employees.
+
+- There should be three type of users Manager, Employee, Admin.
+
+- Managers should be ablt to sanction leaves, generate and view the report of work of an employee or group of employees, view employees timesheets (which are under them) and accept or reject it.
+
+- Employee should be able to apply for leaves, fill and submit timesheet to thier respective managers.
+
+- Admin should be able to manage the cerdentials of employees, determine the hierarchy in the organization, add and delete employees from the portal.
+
+
+
+
+
+Timesheet Application (Employee Management System)
+
+Problem Statement
+- The objective is to develop a Timesheet Application that enables efficient management and tracking of employee work for a company. The application will cater to three types of users: Managers, Employees, and Administrators.
+
+User Roles and Responsibilities:-
+
+Manager:
+- Approve or reject leave applications.
+- Generate and view work reports for individual employees or groups.
+- Access and review timesheets submitted by employees under their supervision.
+- Approve or reject submitted timesheets.
+
+Employee:
+- Apply for leave.
+- Fill out and submit timesheets to their respective managers.
+
+Admin:
+- Manage employee credentials.
+- Determine and configure organizational hierarchy.
+- Add and delete employees from the system.
